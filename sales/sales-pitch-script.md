@@ -165,3 +165,10 @@
 ---
 
 *Grow Sales — Your AI Development Partner*
+
+---
+
+## POWER LINE (use this anywhere in the pitch)
+
+> "You can spend $10k a month on a senior AI hire and *hope* you get what you were promised — or you can pay us a fraction of that and get a proven, already-built system that's already working. No guessing. No ramp time. No risk."
+
